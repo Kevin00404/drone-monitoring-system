@@ -1,0 +1,332 @@
+[2024-07-18 16:32:44] [INFO] CONNECT
+[2024-07-18 16:32:44] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-18 16:32:44] [INFO] SUB delivery_dron
+[2024-07-18 16:32:44] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-18 16:32:48] [INFO] PING
+[2024-07-18 16:33:13] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-18 16:53:08] [INFO] CONNECT
+[2024-07-18 16:53:08] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-18 16:53:08] [INFO] SUB delivery_dron
+[2024-07-18 16:53:08] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-18 16:53:12] [INFO] PING
+[2024-07-18 16:54:02] [INFO] PING
+[2024-07-18 16:54:52] [INFO] PING
+[2024-07-18 16:55:42] [INFO] PING
+[2024-07-18 17:01:13] [INFO] CONNECT
+[2024-07-18 17:01:13] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-18 17:01:13] [INFO] SUB delivery_dron
+[2024-07-18 17:01:13] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-18 17:01:17] [INFO] PING
+[2024-07-18 17:02:07] [INFO] PING
+[2024-07-18 17:02:35] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-18 17:16:07] [INFO] CONNECT
+[2024-07-18 17:16:07] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-18 17:16:07] [INFO] SUB delivery_dron
+[2024-07-18 17:16:07] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-18 17:16:11] [INFO] PING
+[2024-07-18 17:16:31] [INFO] CONNECT
+[2024-07-18 17:16:31] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-18 17:16:31] [INFO] SUB delivery_dron
+[2024-07-18 17:16:31] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-18 17:16:35] [INFO] PING
+[2024-07-18 17:17:25] [INFO] PING
+[2024-07-18 17:17:34] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-18 17:19:40] [INFO] CONNECT
+[2024-07-18 17:19:40] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-18 17:19:40] [INFO] SUB delivery_dron
+[2024-07-18 17:19:40] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-18 17:19:44] [INFO] PING
+[2024-07-18 17:20:34] [INFO] PING
+[2024-07-18 17:20:39] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-18 17:21:54] [INFO] CONNECT
+[2024-07-18 17:21:54] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-18 17:21:54] [INFO] SUB delivery_dron
+[2024-07-18 17:21:54] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-18 17:21:59] [INFO] PING
+[2024-07-18 17:22:49] [INFO] PING
+[2024-07-18 17:23:16] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-19 11:45:55] [INFO] CONNECT
+[2024-07-19 11:45:55] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-19 11:45:55] [INFO] SUB delivery_dron
+[2024-07-19 11:45:55] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-19 11:45:59] [INFO] PING
+[2024-07-19 11:46:49] [INFO] PING
+[2024-07-19 11:47:39] [INFO] PING
+[2024-07-19 11:47:45] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-19 11:48:57] [INFO] CONNECT
+[2024-07-19 11:48:57] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-19 11:48:57] [INFO] SUB delivery_dron
+[2024-07-19 11:48:57] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-19 11:49:01] [INFO] PING
+[2024-07-19 11:49:51] [INFO] PING
+[2024-07-19 11:50:41] [INFO] PING
+[2024-07-19 11:51:31] [INFO] PING
+[2024-07-19 11:52:21] [INFO] PING
+[2024-07-19 11:53:38] [INFO] CONNECT
+[2024-07-19 11:53:38] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-19 11:53:38] [INFO] SUB delivery_dron
+[2024-07-19 11:53:38] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-19 11:53:42] [INFO] PING
+[2024-07-19 11:54:32] [INFO] PING
+[2024-07-19 11:54:43] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-19 12:02:37] [INFO] CONNECT
+[2024-07-19 12:02:37] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-19 12:02:37] [INFO] SUB delivery_dron
+[2024-07-19 12:02:37] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-19 12:02:41] [INFO] PING
+[2024-07-19 12:09:13] [INFO] CONNECT
+[2024-07-19 12:09:13] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-19 12:09:13] [INFO] SUB delivery_dron
+[2024-07-19 12:09:13] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-19 12:09:17] [INFO] PING
+[2024-07-19 12:09:38] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-19 12:17:10] [INFO] CONNECT
+[2024-07-19 12:17:10] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-19 12:17:10] [INFO] SUB delivery_dron
+[2024-07-19 12:17:10] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-19 12:17:14] [INFO] PING
+[2024-07-19 12:17:53] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-19 12:20:20] [INFO] CONNECT
+[2024-07-19 12:20:21] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-19 12:20:21] [INFO] SUB delivery_dron
+[2024-07-19 12:20:21] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-19 12:20:24] [INFO] PING
+[2024-07-19 12:21:06] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-19 14:44:51] [INFO] CONNECT
+[2024-07-19 14:44:51] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-19 14:44:51] [INFO] SUB delivery_dron
+[2024-07-19 14:44:51] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-19 14:44:56] [INFO] PING
+[2024-07-19 14:45:46] [INFO] PING
+[2024-07-19 14:46:36] [INFO] PING
+[2024-07-19 14:47:26] [INFO] PING
+[2024-07-19 14:48:16] [INFO] PING
+[2024-07-19 14:48:22] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-19 14:53:02] [INFO] CONNECT
+[2024-07-19 14:53:02] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-19 14:53:02] [INFO] SUB delivery_dron
+[2024-07-19 14:53:02] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-19 14:53:05] [INFO] PING
+[2024-07-19 14:53:55] [INFO] PING
+[2024-07-19 14:54:10] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-19 15:00:31] [INFO] CONNECT
+[2024-07-19 15:00:31] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-19 15:00:31] [INFO] SUB delivery_dron
+[2024-07-19 15:00:31] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-19 15:00:34] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-19 15:00:58] [INFO] CONNECT
+[2024-07-19 15:00:58] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-19 15:00:58] [INFO] SUB delivery_dron
+[2024-07-19 15:00:58] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-19 15:01:01] [INFO] PING
+[2024-07-19 15:01:51] [INFO] PING
+[2024-07-19 15:03:16] [INFO] CONNECT
+[2024-07-19 15:03:16] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-19 15:03:16] [INFO] SUB delivery_dron
+[2024-07-19 15:03:16] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-19 15:03:19] [INFO] PING
+[2024-07-19 15:04:09] [INFO] PING
+[2024-07-19 15:35:36] [INFO] CONNECT
+[2024-07-19 15:35:36] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-19 15:35:36] [INFO] SUB delivery_dron
+[2024-07-19 15:35:36] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-19 15:35:39] [INFO] PING
+[2024-07-19 15:36:29] [INFO] PING
+[2024-07-22 16:47:33] [INFO] CONNECT
+[2024-07-22 16:47:33] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-22 16:47:33] [INFO] SUB delivery_dron
+[2024-07-22 16:47:33] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-22 16:47:37] [INFO] PING
+[2024-07-22 16:48:27] [INFO] PING
+[2024-07-22 16:50:20] [INFO] CONNECT
+[2024-07-22 16:50:20] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-22 16:50:20] [INFO] SUB delivery_dron
+[2024-07-22 16:50:20] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-22 16:50:24] [INFO] PING
+[2024-07-22 16:51:14] [INFO] PING
+[2024-07-22 16:56:11] [INFO] CONNECT
+[2024-07-22 16:56:11] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-22 16:56:11] [INFO] SUB delivery_dron
+[2024-07-22 16:56:11] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-22 16:56:15] [INFO] PING
+[2024-07-22 16:57:05] [INFO] PING
+[2024-07-22 16:57:55] [INFO] PING
+[2024-07-22 16:58:45] [INFO] PING
+[2024-07-22 16:59:35] [INFO] PING
+[2024-07-22 17:00:25] [INFO] PING
+[2024-07-22 17:01:15] [INFO] PING
+[2024-07-22 17:02:05] [INFO] PING
+[2024-07-22 17:02:57] [INFO] CONNECT
+[2024-07-22 17:02:57] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-22 17:02:57] [INFO] SUB delivery_dron
+[2024-07-22 17:02:57] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-22 17:03:00] [INFO] PING
+[2024-07-22 17:03:30] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-22 17:04:20] [INFO] CONNECT
+[2024-07-22 17:04:20] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-22 17:04:20] [INFO] SUB delivery_dron
+[2024-07-22 17:04:20] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-22 17:04:24] [INFO] PING
+[2024-07-22 17:05:14] [INFO] PING
+[2024-07-22 17:06:04] [INFO] PING
+[2024-07-22 17:06:54] [INFO] PING
+[2024-07-22 17:07:44] [INFO] PING
+[2024-07-22 17:08:34] [INFO] PING
+[2024-07-22 17:09:24] [INFO] PING
+[2024-07-22 17:10:14] [INFO] PING
+[2024-07-22 17:11:04] [INFO] PING
+[2024-07-22 17:11:54] [INFO] PING
+[2024-07-22 17:19:17] [INFO] CONNECT
+[2024-07-22 17:19:17] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-22 17:19:17] [INFO] SUB delivery_dron
+[2024-07-22 17:19:17] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-22 17:19:20] [INFO] PING
+[2024-07-22 17:20:10] [INFO] PING
+[2024-07-22 17:21:00] [INFO] PING
+[2024-07-22 17:21:50] [INFO] PING
+[2024-07-22 17:22:40] [INFO] PING
+[2024-07-22 17:23:30] [INFO] PING
+[2024-07-22 17:24:20] [INFO] PING
+[2024-07-22 17:25:10] [INFO] PING
+[2024-07-22 17:26:00] [INFO] PING
+[2024-07-22 17:26:50] [INFO] PING
+[2024-07-22 17:27:40] [INFO] PING
+[2024-07-22 17:29:11] [INFO] CONNECT
+[2024-07-22 17:29:11] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-22 17:29:11] [INFO] SUB delivery_dron
+[2024-07-22 17:29:11] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-22 17:29:15] [INFO] PING
+[2024-07-22 17:30:05] [INFO] PING
+[2024-07-22 17:30:55] [INFO] PING
+[2024-07-22 17:46:01] [INFO] CONNECT
+[2024-07-22 17:46:01] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-22 17:46:01] [INFO] SUB delivery_dron
+[2024-07-22 17:46:01] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-22 17:46:05] [INFO] PING
+[2024-07-22 17:46:55] [INFO] PING
+[2024-07-22 17:47:47] [INFO] CONNECT
+[2024-07-22 17:47:47] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-22 17:47:47] [INFO] SUB delivery_dron
+[2024-07-22 17:47:47] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-22 17:47:50] [INFO] PING
+[2024-07-22 17:48:40] [INFO] PING
+[2024-07-22 17:49:30] [INFO] PING
+[2024-07-22 17:55:22] [INFO] CONNECT
+[2024-07-22 17:55:22] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-22 17:55:22] [INFO] SUB delivery_dron
+[2024-07-22 17:55:22] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-22 17:55:26] [INFO] PING
+[2024-07-22 18:06:40] [INFO] CONNECT
+[2024-07-22 18:06:40] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-22 18:06:40] [INFO] SUB delivery_dron
+[2024-07-22 18:06:40] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-22 18:06:44] [INFO] PING
+[2024-07-22 18:07:34] [INFO] PING
+[2024-07-22 19:10:14] [INFO] CONNECT
+[2024-07-22 19:10:14] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-22 19:10:14] [INFO] SUB delivery_dron
+[2024-07-22 19:10:14] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-22 19:10:17] [INFO] PING
+[2024-07-22 19:11:07] [INFO] PING
+[2024-07-22 19:11:57] [INFO] PING
+[2024-07-22 19:12:47] [INFO] PING
+[2024-07-22 19:13:37] [INFO] PING
+[2024-07-24 20:31:53] [INFO] CONNECT
+[2024-07-24 20:31:53] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-24 20:31:53] [INFO] SUB delivery_dron
+[2024-07-24 20:31:53] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-24 20:31:57] [INFO] PING
+[2024-07-24 20:32:47] [INFO] PING
+[2024-07-24 20:33:37] [INFO] PING
+[2024-07-24 20:34:27] [INFO] PING
+[2024-07-24 20:35:17] [INFO] PING
+[2024-07-24 20:36:07] [INFO] PING
+[2024-07-24 20:36:57] [INFO] PING
+[2024-07-24 20:36:58] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-24 20:39:38] [INFO] CONNECT
+[2024-07-24 20:39:38] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-24 20:39:38] [INFO] SUB delivery_dron
+[2024-07-24 20:39:38] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-24 20:39:41] [INFO] PING
+[2024-07-24 20:40:31] [INFO] PING
+[2024-07-24 20:41:22] [INFO] PING
+[2024-07-24 20:42:12] [INFO] PING
+[2024-07-24 20:43:02] [INFO] PING
+[2024-07-24 20:43:52] [INFO] PING
+[2024-07-24 20:44:47] [INFO] CONNECT
+[2024-07-24 20:44:47] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-24 20:44:47] [INFO] SUB delivery_dron
+[2024-07-24 20:44:47] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-24 20:44:50] [INFO] PING
+[2024-07-24 20:45:40] [INFO] PING
+[2024-07-24 20:46:30] [INFO] PING
+[2024-07-24 20:47:20] [INFO] PING
+[2024-07-24 20:48:10] [INFO] PING
+[2024-07-24 20:49:00] [INFO] PING
+[2024-07-24 20:49:50] [INFO] PING
+[2024-07-24 20:50:40] [INFO] PING
+[2024-07-24 20:51:30] [INFO] PING
+[2024-07-26 19:23:23] [INFO] CONNECT
+[2024-07-26 19:23:23] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-26 19:23:23] [INFO] SUB delivery_dron
+[2024-07-26 19:23:23] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-26 19:23:27] [INFO] PING
+[2024-07-26 19:24:17] [INFO] PING
+[2024-07-26 19:25:07] [INFO] PING
+[2024-07-26 19:25:57] [INFO] PING
+[2024-07-26 19:26:47] [INFO] PING
+[2024-07-26 19:27:37] [INFO] PING
+[2024-07-26 19:28:27] [INFO] PING
+[2024-07-26 19:29:17] [INFO] PING
+[2024-07-26 19:30:07] [INFO] PING
+[2024-07-26 19:30:57] [INFO] PING
+[2024-07-26 19:31:47] [INFO] PING
+[2024-07-26 19:32:37] [INFO] PING
+[2024-07-26 19:33:27] [INFO] PING
+[2024-07-26 19:34:17] [INFO] PING
+[2024-07-26 19:35:07] [INFO] PING
+[2024-07-26 19:35:57] [INFO] PING
+[2024-07-26 19:36:47] [INFO] PING
+[2024-07-26 19:37:37] [INFO] PING
+[2024-07-26 19:38:27] [INFO] PING
+[2024-07-26 19:39:17] [INFO] PING
+[2024-07-26 19:40:07] [INFO] PING
+[2024-07-26 19:40:57] [INFO] PING
+[2024-07-26 19:41:14] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-26 19:42:33] [INFO] CONNECT
+[2024-07-26 19:42:33] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-26 19:42:33] [INFO] SUB delivery_dron
+[2024-07-26 19:42:33] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-26 19:42:36] [INFO] PING
+[2024-07-26 19:43:26] [INFO] PING
+[2024-07-26 19:44:16] [INFO] PING
+[2024-07-26 19:45:06] [INFO] PING
+[2024-07-26 19:45:56] [INFO] PING
+[2024-07-26 19:46:46] [INFO] PING
+[2024-07-26 19:47:36] [INFO] PING
+[2024-07-26 19:48:26] [INFO] PING
+[2024-07-26 19:49:16] [INFO] PING
+[2024-07-26 19:50:06] [INFO] PING
+[2024-07-26 19:50:56] [INFO] PING
+[2024-07-26 19:51:45] [WARN] No se encontro el cliente para hacer el shutdown
+[2024-07-26 19:54:41] [INFO] CONNECT
+[2024-07-26 19:54:41] [INFO] SUB Sistema_Monitoreo_DeliveryCamara
+[2024-07-26 19:54:41] [INFO] SUB delivery_dron
+[2024-07-26 19:54:41] [INFO] SUB Sistema_Monitoreo_DeliveryIncidentes_IA
+[2024-07-26 19:54:45] [INFO] PING
+[2024-07-26 19:55:35] [INFO] PING
+[2024-07-26 19:56:25] [INFO] PING
+[2024-07-26 19:57:15] [INFO] PING
+[2024-07-26 19:58:05] [INFO] PING
+[2024-07-26 19:58:55] [INFO] PING
+[2024-07-26 19:59:45] [INFO] PING
+[2024-07-26 20:00:35] [INFO] PING
+[2024-07-26 20:01:25] [INFO] PING
+[2024-07-26 20:02:15] [INFO] PING
+[2024-07-26 20:03:05] [INFO] PING
+[2024-07-26 20:03:55] [INFO] PING
+[2024-07-26 20:04:45] [INFO] PING
+[2024-07-26 20:05:35] [INFO] PING
+[2024-07-26 20:06:25] [INFO] PING
+[2024-07-26 20:07:15] [INFO] PING
+[2024-07-26 20:07:26] [WARN] No se encontro el cliente para hacer el shutdown

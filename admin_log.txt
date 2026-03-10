@@ -1,0 +1,1252 @@
+[2024-07-26 12:53:27] [INFO] CONNECT
+[2024-07-26 12:53:27] [INFO] CONNECT
+[2024-07-26 12:53:27] [ERROR] Invalid subject, hay menos de 2 parametros en el subject del SUB
+[2024-07-26 12:53:27] [ERROR] Invalid subject, hay mas de 3 parametros en subject del SUB
+[2024-07-26 12:53:27] [INFO] CONNECT
+[2024-07-26 12:53:27] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-26 12:53:27] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-26 12:53:27] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-26 12:53:27] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-26 12:53:27] [INFO] CONNECT
+[2024-07-26 12:53:27] [ERROR] Invalid subject, el wildcard '>' solo puede ser el ultimo token
+[2024-07-26 12:53:27] [INFO] CONNECT
+[2024-07-26 12:53:27] [ERROR] Invalid subject, los tokens no pueden ser vacios
+[2024-07-26 12:53:27] [INFO] CONNECT
+[2024-07-26 12:53:27] [ERROR] Invalid subject, el wildcard '*' se usa solo, no puede ir acompañado, dentro del mismo token
+[2024-07-26 12:53:28] [INFO] CONNECT
+[2024-07-26 12:53:28] [INFO] SUB time.*.us
+[2024-07-26 12:53:28] [INFO] CONNECT
+[2024-07-26 12:53:28] [INFO] SUB time.>
+[2024-07-26 12:53:28] [INFO] CONNECT
+[2024-07-26 12:53:28] [INFO] CONNECT
+[2024-07-26 12:53:28] [INFO] CONNECT
+[2024-07-26 12:53:28] [INFO] SUB time.us
+[2024-07-26 12:53:28] [INFO] CONNECT
+[2024-07-26 12:53:28] [INFO] CONNECT
+[2024-07-26 12:53:28] [INFO] CONNECT
+[2024-07-26 12:53:28] [INFO] SUB time.us
+[2024-07-26 12:53:28] [INFO] MSG time.us 1 0
+
+
+[2024-07-26 12:53:28] [INFO] CONNECT
+[2024-07-26 12:53:28] [INFO] SUB time.ar
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.ar
+[2024-07-26 12:53:29] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.ar
+[2024-07-26 12:53:29] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.ar.>
+[2024-07-26 12:53:29] [INFO] MSG time.ar.chaco 1 4
+hola
+
+[2024-07-26 12:53:29] [INFO] MSG time.ar.santa_cruz 1 4
+hola
+
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.ar
+[2024-07-26 12:53:29] [INFO] SUB time.ar
+[2024-07-26 12:53:29] [INFO] SUB time.ar
+[2024-07-26 12:53:29] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-26 12:53:29] [INFO] MSG time.ar 2 4
+hola
+
+[2024-07-26 12:53:29] [INFO] MSG time.ar 3 4
+hola
+
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.*.>
+[2024-07-26 12:53:29] [INFO] MSG time.ar 1 14
+primera prueba
+
+[2024-07-26 12:53:29] [INFO] MSG time.ch.santiago.cerrillos 1 14
+segunda prueba
+
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.*
+[2024-07-26 12:53:29] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-26 12:53:29] [INFO] MSG time.ch 1 4
+hola
+
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.us
+[2024-07-26 12:53:29] [ERROR] Formato incorrecto de comando de desuscripcion
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.us
+[2024-07-26 12:53:29] [ERROR] Formato incorrecto de comando de desuscripcion
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.us
+[2024-07-26 12:53:29] [ERROR] Invalid subject, no hay coincidencias para el SID recibido
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.us
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.>
+[2024-07-26 12:53:29] [INFO] SUB time.*.capital
+[2024-07-26 12:53:29] [INFO] SUB time.>
+[2024-07-26 12:53:29] [INFO] SUB time.*.capital
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.us
+[2024-07-26 12:53:29] [INFO] SUB time.ca
+[2024-07-26 12:53:29] [INFO] SUB time.mx
+[2024-07-26 12:53:29] [INFO] SUB time.rd
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.us
+[2024-07-26 12:53:29] [INFO] SUB time.ca
+[2024-07-26 12:53:29] [INFO] SUB time.mx
+[2024-07-26 12:53:29] [INFO] SUB time.rd
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.us
+[2024-07-26 12:53:29] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-26 12:53:29] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-26 12:53:29] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.us
+[2024-07-26 12:53:29] [INFO] SUB time.ca
+[2024-07-26 12:53:29] [INFO] SUB time.mx
+[2024-07-26 12:53:29] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-26 12:53:29] [INFO] UNSUB: sid:2 max_msg:2
+[2024-07-26 12:53:29] [INFO] UNSUB: sid:3 max_msg:2
+[2024-07-26 12:53:29] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-26 12:53:29] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-26 12:53:29] [INFO] MSG time.ca 2 4
+hola
+
+[2024-07-26 12:53:29] [INFO] MSG time.ca 2 4
+hola
+
+[2024-07-26 12:53:29] [INFO] MSG time.mx 3 4
+hola
+
+[2024-07-26 12:53:29] [INFO] MSG time.mx 3 4
+hola
+
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.>
+[2024-07-26 12:53:29] [INFO] SUB time.*.capital
+[2024-07-26 12:53:29] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-26 12:53:29] [INFO] UNSUB: sid:2 max_msg:2
+[2024-07-26 12:53:29] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-26 12:53:29] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.>
+[2024-07-26 12:53:29] [INFO] SUB time.*.capital
+[2024-07-26 12:53:29] [INFO] MSG time.ar.capital 2 reply.here 4
+hola
+
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.us
+[2024-07-26 12:53:29] [INFO] HMSG time.us 1 forecast 0 0
+
+
+
+
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.us
+[2024-07-26 12:53:29] [INFO] HMSG time.us 1 0 0
+
+
+
+
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.us
+[2024-07-26 12:53:29] [INFO] HMSG time.us 1 forecast 16 16
+BSAS: LLUVIA
+
+
+
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] CONNECT
+[2024-07-26 12:53:29] [INFO] SUB time.us
+[2024-07-26 12:53:30] [INFO] CONNECT
+[2024-07-26 12:53:30] [INFO] CONNECT
+[2024-07-26 12:53:30] [INFO] SUB time.us
+[2024-07-26 12:53:30] [INFO] HMSG time.us 1 0 24
+
+
+
+
+[2024-07-26 12:53:30] [INFO] CONNECT
+[2024-07-26 12:53:30] [INFO] CONNECT
+[2024-07-26 12:53:30] [INFO] SUB time.us
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [ERROR] Invalid subject, hay menos de 2 parametros en el subject del SUB
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [ERROR] Invalid subject, hay mas de 3 parametros en subject del SUB
+[2024-07-26 12:54:20] [ERROR] Invalid subject, los tokens no pueden ser vacios
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-26 12:54:20] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-26 12:54:20] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-26 12:54:20] [ERROR] Invalid subject, el wildcard '>' solo puede ser el ultimo token
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [INFO] SUB time.us
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [ERROR] Invalid subject, el wildcard '*' se usa solo, no puede ir acompañado, dentro del mismo token
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [INFO] SUB time.*.us
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [INFO] SUB time.>
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [INFO] SUB time.us
+[2024-07-26 12:54:20] [INFO] MSG time.us 1 0
+
+
+[2024-07-26 12:54:20] [INFO] CONNECT
+[2024-07-26 12:54:20] [INFO] SUB time.ar
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.ar
+[2024-07-26 12:54:21] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.ar
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.ar
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.ar
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.ar
+[2024-07-26 12:54:21] [INFO] SUB time.ar.>
+[2024-07-26 12:54:21] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-26 12:54:21] [INFO] MSG time.ar.chaco 1 4
+hola
+
+[2024-07-26 12:54:21] [INFO] MSG time.ar 2 4
+hola
+
+[2024-07-26 12:54:21] [INFO] MSG time.ar 3 4
+hola
+
+[2024-07-26 12:54:21] [INFO] MSG time.ar.santa_cruz 1 4
+hola
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.*
+[2024-07-26 12:54:21] [INFO] SUB time.*.>
+[2024-07-26 12:54:21] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-26 12:54:21] [INFO] MSG time.ch 1 4
+hola
+
+[2024-07-26 12:54:21] [INFO] MSG time.ar 1 14
+primera prueba
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] MSG time.ch.santiago.cerrillos 1 14
+segunda prueba
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [ERROR] Formato incorrecto de comando de desuscripcion
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [ERROR] Formato incorrecto de comando de desuscripcion
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [ERROR] Invalid subject, no hay coincidencias para el SID recibido
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.>
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.*.capital
+[2024-07-26 12:54:21] [INFO] SUB time.>
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] SUB time.*.capital
+[2024-07-26 12:54:21] [INFO] SUB time.ca
+[2024-07-26 12:54:21] [INFO] SUB time.mx
+[2024-07-26 12:54:21] [INFO] SUB time.rd
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-26 12:54:21] [INFO] SUB time.ca
+[2024-07-26 12:54:21] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-26 12:54:21] [INFO] SUB time.mx
+[2024-07-26 12:54:21] [INFO] SUB time.rd
+[2024-07-26 12:54:21] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] SUB time.ca
+[2024-07-26 12:54:21] [INFO] SUB time.mx
+[2024-07-26 12:54:21] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-26 12:54:21] [INFO] UNSUB: sid:2 max_msg:2
+[2024-07-26 12:54:21] [INFO] UNSUB: sid:3 max_msg:2
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.>
+[2024-07-26 12:54:21] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-26 12:54:21] [INFO] SUB time.*.capital
+[2024-07-26 12:54:21] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-26 12:54:21] [INFO] MSG time.ca 2 4
+hola
+
+[2024-07-26 12:54:21] [INFO] UNSUB: sid:2 max_msg:2
+[2024-07-26 12:54:21] [INFO] MSG time.ca 2 4
+hola
+
+[2024-07-26 12:54:21] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-26 12:54:21] [INFO] MSG time.mx 3 4
+hola
+
+[2024-07-26 12:54:21] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-26 12:54:21] [INFO] MSG time.mx 3 4
+hola
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.>
+[2024-07-26 12:54:21] [INFO] SUB time.*.capital
+[2024-07-26 12:54:21] [INFO] MSG time.ar.capital 2 reply.here 4
+hola
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] HMSG time.us 1 forecast 0 0
+
+
+
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] HMSG time.us 1 0 0
+
+
+
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] HMSG time.us 1 forecast 16 16
+BSAS: LLUVIA
+
+
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] HMSG time.us 1 forecast 17 35
+BSAS: SOLEADO
+
+Al menos no llueve
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] HMSG time.us 1 0 24
+
+
+Espero que no llueva
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] HMSG time.us 1 19 39
+Tiempo: Nublado
+
+Espero que no llueva
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] HMSG time.us 1 19 19
+Tiempo: Nublado
+
+
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] HMSG time.us 1 forecast 0 24
+
+
+Espero que no llueva
+
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] CONNECT
+[2024-07-26 12:54:21] [INFO] SUB time.us
+[2024-07-26 12:54:21] [INFO] HMSG time.us 1 forecast 89 111
+Lunes: Soleado
+Martes: Nublado
+Miercoles: Soleado
+Jueves: Nublado
+Viernes: Lluvia
+
+Espero que no llueva
+
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [ERROR] Invalid subject, hay menos de 2 parametros en el subject del SUB
+[2024-07-29 12:16:17] [ERROR] Invalid subject, hay mas de 3 parametros en subject del SUB
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [ERROR] Invalid subject, los tokens no pueden ser vacios
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-29 12:16:17] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-29 12:16:17] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-29 12:16:17] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [ERROR] Invalid subject, el wildcard '>' solo puede ser el ultimo token
+[2024-07-29 12:16:17] [ERROR] Invalid subject, el wildcard '*' se usa solo, no puede ir acompañado, dentro del mismo token
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [INFO] SUB time.us
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [INFO] SUB time.*.us
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [INFO] SUB time.>
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [INFO] SUB time.us
+[2024-07-29 12:16:17] [INFO] MSG time.us 1 0
+
+
+[2024-07-29 12:16:17] [INFO] CONNECT
+[2024-07-29 12:16:17] [INFO] SUB time.ar
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.ar
+[2024-07-29 12:16:18] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.ar
+[2024-07-29 12:16:18] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.ar
+[2024-07-29 12:16:18] [INFO] SUB time.ar
+[2024-07-29 12:16:18] [INFO] SUB time.ar
+[2024-07-29 12:16:18] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-29 12:16:18] [INFO] MSG time.ar 2 4
+hola
+
+[2024-07-29 12:16:18] [INFO] MSG time.ar 3 4
+hola
+
+[2024-07-29 12:16:18] [INFO] SUB time.ar.>
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] MSG time.ar.chaco 1 4
+hola
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] MSG time.ar.santa_cruz 1 4
+hola
+
+[2024-07-29 12:16:18] [INFO] SUB time.*
+[2024-07-29 12:16:18] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] MSG time.ch 1 4
+hola
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.*.>
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] MSG time.ar 1 14
+primera prueba
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] MSG time.ch.santiago.cerrillos 1 14
+segunda prueba
+
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [ERROR] Formato incorrecto de comando de desuscripcion
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [ERROR] Formato incorrecto de comando de desuscripcion
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [ERROR] Invalid subject, no hay coincidencias para el SID recibido
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.>
+[2024-07-29 12:16:18] [INFO] SUB time.*.capital
+[2024-07-29 12:16:18] [INFO] SUB time.>
+[2024-07-29 12:16:18] [INFO] SUB time.*.capital
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] SUB time.ca
+[2024-07-29 12:16:18] [INFO] SUB time.mx
+[2024-07-29 12:16:18] [INFO] SUB time.rd
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] SUB time.ca
+[2024-07-29 12:16:18] [INFO] SUB time.mx
+[2024-07-29 12:16:18] [INFO] SUB time.rd
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-29 12:16:18] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:16:18] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] SUB time.ca
+[2024-07-29 12:16:18] [INFO] SUB time.mx
+[2024-07-29 12:16:18] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-29 12:16:18] [INFO] UNSUB: sid:2 max_msg:2
+[2024-07-29 12:16:18] [INFO] UNSUB: sid:3 max_msg:2
+[2024-07-29 12:16:18] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:16:18] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:16:18] [INFO] MSG time.ca 2 4
+hola
+
+[2024-07-29 12:16:18] [INFO] MSG time.ca 2 4
+hola
+
+[2024-07-29 12:16:18] [INFO] MSG time.mx 3 4
+hola
+
+[2024-07-29 12:16:18] [INFO] MSG time.mx 3 4
+hola
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.>
+[2024-07-29 12:16:18] [INFO] SUB time.*.capital
+[2024-07-29 12:16:18] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-29 12:16:18] [INFO] UNSUB: sid:2 max_msg:2
+[2024-07-29 12:16:18] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:16:18] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.>
+[2024-07-29 12:16:18] [INFO] SUB time.*.capital
+[2024-07-29 12:16:18] [INFO] MSG time.ar.capital 2 reply.here 4
+hola
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] HMSG time.us 1 forecast 0 0
+
+
+
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] HMSG time.us 1 0 0
+
+
+
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] HMSG time.us 1 forecast 16 16
+BSAS: LLUVIA
+
+
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] HMSG time.us 1 forecast 17 35
+BSAS: SOLEADO
+
+Al menos no llueve
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] HMSG time.us 1 0 24
+
+
+Espero que no llueva
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] HMSG time.us 1 19 39
+Tiempo: Nublado
+
+Espero que no llueva
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] HMSG time.us 1 19 19
+Tiempo: Nublado
+
+
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] HMSG time.us 1 forecast 0 24
+
+
+Espero que no llueva
+
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] CONNECT
+[2024-07-29 12:16:18] [INFO] SUB time.us
+[2024-07-29 12:16:18] [INFO] HMSG time.us 1 forecast 89 111
+Lunes: Soleado
+Martes: Nublado
+Miercoles: Soleado
+Jueves: Nublado
+Viernes: Lluvia
+
+Espero que no llueva
+
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [ERROR] Invalid subject, hay mas de 3 parametros en subject del SUB
+[2024-07-29 12:29:24] [ERROR] Invalid subject, hay menos de 2 parametros en el subject del SUB
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [ERROR] Invalid subject, los tokens no pueden ser vacios
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-29 12:29:24] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-29 12:29:24] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-29 12:29:24] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [ERROR] Invalid subject, el wildcard '>' solo puede ser el ultimo token
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [ERROR] Invalid subject, el wildcard '*' se usa solo, no puede ir acompañado, dentro del mismo token
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [INFO] SUB time.us
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [INFO] SUB time.*.us
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [INFO] SUB time.>
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [INFO] SUB time.us
+[2024-07-29 12:29:24] [INFO] MSG time.us 1 0
+
+
+[2024-07-29 12:29:24] [INFO] CONNECT
+[2024-07-29 12:29:24] [INFO] SUB time.ar
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.ar
+[2024-07-29 12:29:25] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.ar
+[2024-07-29 12:29:25] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.ar
+[2024-07-29 12:29:25] [INFO] SUB time.ar
+[2024-07-29 12:29:25] [INFO] SUB time.ar
+[2024-07-29 12:29:25] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-29 12:29:25] [INFO] MSG time.ar 2 4
+hola
+
+[2024-07-29 12:29:25] [INFO] MSG time.ar 3 4
+hola
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.ar.>
+[2024-07-29 12:29:25] [INFO] MSG time.ar.chaco 1 4
+hola
+
+[2024-07-29 12:29:25] [INFO] MSG time.ar.santa_cruz 1 4
+hola
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.*
+[2024-07-29 12:29:25] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-29 12:29:25] [INFO] MSG time.ch 1 4
+hola
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.*.>
+[2024-07-29 12:29:25] [INFO] MSG time.ar 1 14
+primera prueba
+
+[2024-07-29 12:29:25] [INFO] MSG time.ch.santiago.cerrillos 1 14
+segunda prueba
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [ERROR] Formato incorrecto de comando de desuscripcion
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [ERROR] Formato incorrecto de comando de desuscripcion
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [ERROR] Invalid subject, no hay coincidencias para el SID recibido
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.>
+[2024-07-29 12:29:25] [INFO] SUB time.*.capital
+[2024-07-29 12:29:25] [INFO] SUB time.>
+[2024-07-29 12:29:25] [INFO] SUB time.*.capital
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] SUB time.ca
+[2024-07-29 12:29:25] [INFO] SUB time.mx
+[2024-07-29 12:29:25] [INFO] SUB time.rd
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] SUB time.ca
+[2024-07-29 12:29:25] [INFO] SUB time.mx
+[2024-07-29 12:29:25] [INFO] SUB time.rd
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-29 12:29:25] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:29:25] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] SUB time.ca
+[2024-07-29 12:29:25] [INFO] SUB time.mx
+[2024-07-29 12:29:25] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-29 12:29:25] [INFO] UNSUB: sid:2 max_msg:2
+[2024-07-29 12:29:25] [INFO] UNSUB: sid:3 max_msg:2
+[2024-07-29 12:29:25] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:29:25] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:29:25] [INFO] MSG time.ca 2 4
+hola
+
+[2024-07-29 12:29:25] [INFO] MSG time.ca 2 4
+hola
+
+[2024-07-29 12:29:25] [INFO] MSG time.mx 3 4
+hola
+
+[2024-07-29 12:29:25] [INFO] MSG time.mx 3 4
+hola
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.>
+[2024-07-29 12:29:25] [INFO] SUB time.*.capital
+[2024-07-29 12:29:25] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-29 12:29:25] [INFO] UNSUB: sid:2 max_msg:2
+[2024-07-29 12:29:25] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:29:25] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.>
+[2024-07-29 12:29:25] [INFO] SUB time.*.capital
+[2024-07-29 12:29:25] [INFO] MSG time.ar.capital 2 reply.here 4
+hola
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] HMSG time.us 1 forecast 0 0
+
+
+
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] HMSG time.us 1 0 0
+
+
+
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] HMSG time.us 1 forecast 16 16
+BSAS: LLUVIA
+
+
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] HMSG time.us 1 forecast 17 35
+BSAS: SOLEADO
+
+Al menos no llueve
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] HMSG time.us 1 0 24
+
+
+Espero que no llueva
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] HMSG time.us 1 19 39
+Tiempo: Nublado
+
+Espero que no llueva
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] HMSG time.us 1 19 19
+Tiempo: Nublado
+
+
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] HMSG time.us 1 forecast 0 24
+
+
+Espero que no llueva
+
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] CONNECT
+[2024-07-29 12:29:25] [INFO] SUB time.us
+[2024-07-29 12:29:25] [INFO] HMSG time.us 1 forecast 89 111
+Lunes: Soleado
+Martes: Nublado
+Miercoles: Soleado
+Jueves: Nublado
+Viernes: Lluvia
+
+Espero que no llueva
+
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [ERROR] Invalid subject, hay menos de 2 parametros en el subject del SUB
+[2024-07-29 12:37:51] [ERROR] Invalid subject, hay mas de 3 parametros en subject del SUB
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [ERROR] Invalid subject, los tokens no pueden ser vacios
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-29 12:37:51] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-29 12:37:51] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-29 12:37:51] [ERROR] Invalid subject, los tokens solo pueden contener caracteres alfanumericos
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [ERROR] Invalid subject, el wildcard '>' solo puede ser el ultimo token
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [INFO] SUB time.us
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [INFO] SUB time.*.us
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [INFO] SUB time.>
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [ERROR] Invalid subject, el wildcard '*' se usa solo, no puede ir acompañado, dentro del mismo token
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [INFO] SUB time.us
+[2024-07-29 12:37:51] [INFO] MSG time.us 1 0
+
+
+[2024-07-29 12:37:51] [INFO] CONNECT
+[2024-07-29 12:37:51] [INFO] SUB time.ar
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.ar
+[2024-07-29 12:37:52] [INFO] SUB time.ar
+[2024-07-29 12:37:52] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-29 12:37:52] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.ar
+[2024-07-29 12:37:52] [INFO] SUB time.ar
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.ar
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.ar.>
+[2024-07-29 12:37:52] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-29 12:37:52] [INFO] MSG time.ar 2 4
+hola
+
+[2024-07-29 12:37:52] [INFO] MSG time.ar 3 4
+hola
+
+[2024-07-29 12:37:52] [INFO] MSG time.ar.chaco 1 4
+hola
+
+[2024-07-29 12:37:52] [INFO] MSG time.ar.santa_cruz 1 4
+hola
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.*
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] MSG time.ar 1 4
+hola
+
+[2024-07-29 12:37:52] [INFO] SUB time.*.>
+[2024-07-29 12:37:52] [INFO] MSG time.ch 1 4
+hola
+
+[2024-07-29 12:37:52] [INFO] MSG time.ar 1 14
+primera prueba
+
+[2024-07-29 12:37:52] [INFO] MSG time.ch.santiago.cerrillos 1 14
+segunda prueba
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [ERROR] Formato incorrecto de comando de desuscripcion
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [ERROR] Formato incorrecto de comando de desuscripcion
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [ERROR] Invalid subject, no hay coincidencias para el SID recibido
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.>
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.*.capital
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.>
+[2024-07-29 12:37:52] [INFO] SUB time.*.capital
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] SUB time.ca
+[2024-07-29 12:37:52] [INFO] SUB time.mx
+[2024-07-29 12:37:52] [INFO] SUB time.rd
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] SUB time.ca
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-29 12:37:52] [INFO] SUB time.mx
+[2024-07-29 12:37:52] [INFO] SUB time.rd
+[2024-07-29 12:37:52] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:37:52] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.>
+[2024-07-29 12:37:52] [INFO] SUB time.*.capital
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-29 12:37:52] [INFO] SUB time.ca
+[2024-07-29 12:37:52] [INFO] UNSUB: sid:2 max_msg:2
+[2024-07-29 12:37:52] [INFO] SUB time.mx
+[2024-07-29 12:37:52] [INFO] UNSUB: sid:1 max_msg:2
+[2024-07-29 12:37:52] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:37:52] [INFO] UNSUB: sid:2 max_msg:2
+[2024-07-29 12:37:52] [INFO] UNSUB: sid:3 max_msg:2
+[2024-07-29 12:37:52] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:37:52] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:37:52] [INFO] MSG time.us 1 4
+hola
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] MSG time.ca 2 4
+hola
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] MSG time.ca 2 4
+hola
+
+[2024-07-29 12:37:52] [INFO] SUB time.>
+[2024-07-29 12:37:52] [INFO] SUB time.*.capital
+[2024-07-29 12:37:52] [INFO] MSG time.mx 3 4
+hola
+
+[2024-07-29 12:37:52] [INFO] MSG time.mx 3 4
+hola
+
+[2024-07-29 12:37:52] [INFO] MSG time.ar.capital 2 reply.here 4
+hola
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] HMSG time.us 1 forecast 0 0
+
+
+
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] HMSG time.us 1 0 0
+
+
+
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] HMSG time.us 1 forecast 16 16
+BSAS: LLUVIA
+
+
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] HMSG time.us 1 forecast 17 35
+BSAS: SOLEADO
+
+Al menos no llueve
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] HMSG time.us 1 0 24
+
+
+Espero que no llueva
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] HMSG time.us 1 19 39
+Tiempo: Nublado
+
+Espero que no llueva
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] HMSG time.us 1 19 19
+Tiempo: Nublado
+
+
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] HMSG time.us 1 forecast 0 24
+
+
+Espero que no llueva
+
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] CONNECT
+[2024-07-29 12:37:52] [INFO] SUB time.us
+[2024-07-29 12:37:52] [INFO] HMSG time.us 1 forecast 89 111
+Lunes: Soleado
+Martes: Nublado
+Miercoles: Soleado
+Jueves: Nublado
+Viernes: Lluvia
+
+Espero que no llueva
+
